@@ -12,6 +12,7 @@ This project implements a motion detection system using an Arduino-compatible bo
 - Toggle button to enable/disable motion detection and LED indicator
 - LED indicator to show the system status
 - Debounced button handling
+- 3D printed case for the PIR sensor
 
 ## Hardware Requirements
 - Arduino board with BLE support (e.g., Arduino Nano 33 BLE, ESP32, etc.)
