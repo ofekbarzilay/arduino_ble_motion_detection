@@ -74,5 +74,5 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 This project is open-source and can be modified and shared.
 
 ## Author
-Ofek Barzilay
+Ofek Barzilay, Gili Baruch, Noga Gross, Rom Israeli, Simona Apostolov
 
